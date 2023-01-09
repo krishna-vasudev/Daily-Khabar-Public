@@ -44,7 +44,7 @@ You can download the android application apk file by clicking the below image <b
 <br>
 <div align="center">
  <a href="media/dailykhabar.apk" download>
-  <img src="media/downloadimage.png" alt="W3Schools" width="150">
+  <img src="./media/downloadimage.png" alt="W3Schools" width="150">
 </a>
 </div>
 
