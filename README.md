@@ -43,7 +43,7 @@ There are various news apis available over the internet. But [newsapi.org](https
 You can download the android application apk file by clicking the below image <b>:</b>
 <br>
 <div align="center">
- <a href="./media/dailykhabar.apk" download>
+ <a href="https://raw.githubusercontent.com/krishna-vasudev/Daily-Khabar-Public/master/media/dailykhabar.apk" download>
   <img src="./media/downloadimage.png" alt="W3Schools" width="150">
 </a>
 </div>
